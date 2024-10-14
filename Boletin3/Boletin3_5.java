@@ -3,16 +3,24 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package com.danielcastelao.newproyect.Proyectos.Prog;
-
+import java.util.Scanner;
 /**
  *
  * @author dam
  */
 public class Boletin3_5 {
     public static void main(String[] args){
-    double n1=-64;
-    double n2=-2.53;
-    double n3=129;
+    double n1;
+    double n2;
+    double n3;
+
+    Scanner sc=new Scanner(System.in);
+    System.out.println("Dame el primer numero: ");
+    n1=sc.nextDouble();
+    System.out.println("Dame el segundo numero: ");
+    n2=sc.nextDouble();
+    System.out.println("Dame el tercer numero: ");
+    n3=sc.nextDouble();
     if (n3<n2){/*n3*/
         if (n3<n1){
             System.out.println("n2>n1>n3");
