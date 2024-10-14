@@ -15,7 +15,7 @@ public class Boletin_extra_2_5 {
     float ventas;
     float distancia;
     float hora;
-    float dietas=20;
+    
 
 
     System.out.println("Cuanto es tu sueldo fijo?");
@@ -26,7 +26,7 @@ public class Boletin_extra_2_5 {
     distancia=sc.nextFloat();
     System.out.println("Cuanto tardas en venir al trabajo?");
     hora=sc.nextFloat();
-    double soldo_bruto=fijo+ventas*0.05+2*distancia+hora*30+dietas;
+    double soldo_bruto=fijo+ventas*0.05+2*distancia+hora*30;
     System.out.println("Tu sueldo bruto es "+ soldo_bruto+" €");
     double irpf=0.18*soldo_bruto;
     float ssocial=36;
