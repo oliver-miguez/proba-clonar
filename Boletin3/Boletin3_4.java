@@ -19,14 +19,16 @@ public class Boletin3_4 {
     int peso1=sc.nextInt();
     System.out.println("Dame el peso de "+ nom2+" :");
     int peso2=sc.nextInt();
-    if (peso1>peso2){
-        System.out.println("Tiene mas peso "+nom1);
-        System.out.println(nom1+" tiene  "+ (peso1-peso2)+" Kg mas de peso que "+nom2);
-    }else{
-        System.out.println("Tiene mas peso "+nom2);
-        System.out.println(nom2+" tiene  "+ (peso2-peso1)+" Kg mas de peso que "+nom1);
-    } 
-    sc.close();
+
+          if (peso1>peso2){
+              System.out.println("Tiene mas peso "+nom1);
+              System.out.println(nom1+" tiene  "+ (peso1-peso2)+" Kg mas de peso que "+nom2);
+          }else{
+              System.out.println("Tiene mas peso "+nom2);
+              System.out.println(nom2+" tiene  "+ (peso2-peso1)+" Kg mas de peso que "+nom1);
+          }
+          sc.close();
+
     }
     
 }
