@@ -36,7 +36,7 @@ public class Ejercicio_lectura_Num {
                     System.out.println(numero);
                 }
             case 1:
-                /*Me dice los casos especiales de los decimales entre 1 y 5*/
+                /*Me dice los casos especiales de los decimales q empiezan con 10 y terminan con enteros entre 1 y 5*/
                 if (numero_d==1) {
 
                     if (numero_u==1){
