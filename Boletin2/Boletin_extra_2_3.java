@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**Dice que dandole una cantidad de billetes de distinta cantidad te da la suma en conjunto
  *@version 1.1
- * @author dam
+ * @author Dima Aparicio
  */
 public class Boletin_extra_2_3 {
     public static void main(String[] args){
