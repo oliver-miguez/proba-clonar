@@ -4,9 +4,9 @@
  */
 package com.danielcastelao.newproyect.Proyectos.Prog;
 import java.util.Scanner;
-/**
- *
- * @author dam
+/**Calculo de varias operaciones con dos variable escritas por consola
+ *@version 1.1
+ * @author Dima Aparicio
  */
 public class Boletin2_4 {
     public static void main(String[] args){
