@@ -6,8 +6,8 @@ package com.danielcastelao.newproyect.Proyectos.Prog;
 
 import java.util.Scanner;
 
-/**
- *
+/**Pasa de grados centigrados a grados kelvin
+ *@version 1.1
  * @author dam
  */
 public class Boletin_extra_2_2 {
