@@ -6,8 +6,8 @@ package com.danielcastelao.newproyect.Proyectos.Prog;
 
 import java.util.Scanner;
 
-/**
- *
+/**Dice que dandole una cantidad de billetes de distinta cantidad te da la suma en conjunto
+ *@version 1.1
  * @author dam
  */
 public class Boletin_extra_2_3 {
