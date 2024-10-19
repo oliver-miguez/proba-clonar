@@ -4,9 +4,9 @@
  */
 package com.danielcastelao.newproyect.Proyectos.Prog;
 import java.util.Scanner;
-/**
- *
- * @author dam
+/**Paso de millas a metros
+ *@version 1.1
+ * @author Dima Aparicio
  */
 public class Boletin2_5 {
     public static void main(String[] args){
