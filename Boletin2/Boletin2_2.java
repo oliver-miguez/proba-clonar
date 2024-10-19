@@ -4,9 +4,9 @@
  */
 package com.danielcastelao.newproyect.Proyectos.Prog;
 
-/**
- *
- * @author dam
+/**Calculo del cuadrado escribiendole los datos de los lados
+ *@version 1.1
+ * @author Dima Aparicio
  */
 public class Boletin2_2 {
     public static void main(String[] args){
