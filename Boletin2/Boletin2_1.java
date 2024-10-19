@@ -4,14 +4,16 @@
  */
 package com.danielcastelao.newproyect.Proyectos.Prog;
 
-/**
- *
- * @author dam
+/**Calculo de area de triangulo
+ *@version 1.1
+ * @author Dima Aparicio
  */
 public class Boletin2_1 {
     public static void main(String[] args){
+        /*Variables int de la base y altura*/
         int b=4;
         int a=3;
+        /*Operacion calculo de area*/
         int area=(b*a)/2;
         System.out.println("El area de tu triángulo es: "+area);   
         }
