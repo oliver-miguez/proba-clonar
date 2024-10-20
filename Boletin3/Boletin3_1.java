@@ -4,17 +4,20 @@
  */
 package com.danielcastelao.newproyect.Proyectos.Prog;
 import java.util.Scanner;
-/**
- *
- * @author dam
+/**Te dice si un numero es positivo
+ *@version 1.1
+ * @author Dima Aparicio
  */
 public class Boletin3_1 {
     public static void main(String[] args){
     Scanner sc=new Scanner(System.in);
+        /*Crea la variable numero*/
     System.out.println("Dame un numero: ");
     int a;
     a=sc.nextInt();
+        /*Condicion para saber si un numero es positivo o no*/
     if (a>0){
+        /*Salida de datos*/
         System.out.println("El numero "+a+" es positivo");
     
     }else{}
