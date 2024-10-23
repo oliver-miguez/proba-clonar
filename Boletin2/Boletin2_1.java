@@ -6,7 +6,7 @@ package com.danielcastelao.newproyect.Proyectos.Prog;
 
 /**Calculo de area de triangulo
  *@version 1.1
- * @author Dima Aparicio
+ * @author Oliver Miguez Alonso
  */
 public class Boletin2_1 {
     public static void main(String[] args){
